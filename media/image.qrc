@@ -1,0 +1,21 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>bx_bx-edit.png</file>
+    <file>Group.png</file>
+    <file>openmoji_return-back-button.png</file>
+    <file>worker.png</file>
+    <file>boss.png</file>
+    <file>Vector.png</file>
+    <file>uil_calender.png</file>
+    <file>Group 11.png</file>
+    <file>Group 9.png</file>
+    <file>Group 8.png</file>
+    <file>Group 7.png</file>
+    <file>add_user.png</file>
+    <file>worker.png</file>
+    <file>google.png</file>
+    <file>ant-design_clock-circle-outlined.png</file>
+    <file>facebook.png</file>
+    <file>clock.png</file>
+  </qresource>
+</RCC>
